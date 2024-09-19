@@ -18,11 +18,11 @@ I understand that this is a lot. Think of this as long term game and you definit
 - Statistical Rethinking ⭐⭐⭐⭐⭐
 - Counterfactuals and Causal Inference
 - Causal Inference : What If
-- Convex Optimization Algorithms
 - Convex Optimization
 - Trustworthy online controlled experiments ⭐⭐⭐⭐⭐
 - Regression and other stories
 - Flexible Imputation of Missing Data
+- CS229 lecture notes ⭐⭐⭐⭐⭐
 
 ### Hands-on practical books for systems
 - Fluent Python
