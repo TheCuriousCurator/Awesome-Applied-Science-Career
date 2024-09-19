@@ -1,6 +1,11 @@
 # 🚀🚀🚀 Awesome-Applied-Science-Career 🚀🚀🚀
 
-### The goal of this repo is NOT to be encyclopedic but be helpful, non-repetitive and/or englightenting. ⭐⭐⭐⭐⭐ means must read. 😇
+### The goal of this repo is NOT to be encyclopedic but be helpful, non-repetitive and/or englightenting. 
+
+⭐⭐⭐⭐⭐ means must read. 😇
+
+I understand that this is a lot. Think of this as long term game and you definitely need years to cover so much.
+
 
 ## Books
 ### Foundational Books
