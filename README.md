@@ -1,6 +1,6 @@
 # 🚀🚀🚀 Awesome-Applied-Science-Career 🚀🚀🚀
 
-### The goal of this repo is NOT to be encyclopedic but be (helpful &| non-repetitive &| englightenting).
+### The goal of this repo is NOT to be encyclopedic but be helpful, non-repetitive and/or englightenting.
 
 ## Books
 ### Foundational Books
