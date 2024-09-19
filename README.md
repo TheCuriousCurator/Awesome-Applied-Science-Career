@@ -55,13 +55,18 @@
 - gym
 - implicit
 
-### ML Infra related libraries
+### ML Systems related libraries
 - Metaflow
 - MLflow
 - KubeFlow
 - Airflow
-- Sagemaker
-- aws-cli
+- AWS
+  - aws-cli
+  - EC2
+  - EMR
+  - S3
+  - Sagemaker
+  - ECR
 - feast
 - hopswork
-- 
+- Weights & Biases
