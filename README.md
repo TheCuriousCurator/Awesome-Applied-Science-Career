@@ -106,3 +106,4 @@ I understand that this is a lot. Think of this as long term game and you definit
 - hopswork
 - Weights & Biases
 - Ray
+- git
