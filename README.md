@@ -8,6 +8,11 @@ I understand that this is a lot. Think of this as long term game and you definit
 
 
 ## Books
+### Super Beginner Books
+- Python for Data Analysis
+- Python Data Science Handbook
+- Think Stats
+
 ### Foundational Books
 - Introduction to Probability for Data Science ⭐⭐⭐⭐⭐
 - Linear Algebra ⭐⭐⭐⭐⭐
