@@ -25,7 +25,7 @@ I understand that this is a lot. Think of this as long term game and you definit
 - CS229 lecture notes ⭐⭐⭐⭐⭐
 
 ### Hands-on practical books for systems
-- Fluent Python
+- Fluent Python (Advanced)
 - Data Engineering with AWS ⭐⭐⭐⭐⭐
 - Data Engineering with Python ⭐⭐⭐⭐⭐
 - Machine Learning Engineering with Python ⭐⭐⭐⭐⭐
@@ -34,7 +34,7 @@ I understand that this is a lot. Think of this as long term game and you definit
 - Feature Store for Machine Learning
 - Generative AI on AWS
 - Causal Inference in Python
-- 
+- Software Engineering for Data Scientists
 
 ### Engineering Neighborhood books
 - MySQL Internals ⭐⭐⭐⭐⭐
