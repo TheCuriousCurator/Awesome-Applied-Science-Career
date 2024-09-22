@@ -1,7 +1,7 @@
 # 🚀🚀🚀 Awesome-Applied-Science-Career 🚀🚀🚀
 
-![Logo](TCC-logos.jpeg){ width="150px" }
 <img src="TCC-logos.jpeg" width="150"/>
+
 ## by [The Curious Curator](https://thecuriouscurator.in/course/ultimate-machine-learning-course/)
 
 ### The goal of this repo is NOT to be encyclopedic but be helpful, non-repetitive and/or englightenting. 
