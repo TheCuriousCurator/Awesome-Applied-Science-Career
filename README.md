@@ -31,9 +31,9 @@ I understand that this is a lot. Think of this as long term game and you definit
 - [Causal Inference : What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
 - [Trustworthy online controlled experiments](https://www.amazon.in/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264/) ⭐⭐⭐⭐⭐
-- [Regression and other stories]()
-- [Flexible Imputation of Missing Data]()
-- [CS229 lecture notes]() ⭐⭐⭐⭐⭐
+- [Regression and other stories](https://www.amazon.in/Regression-Stories-Analytical-Methods-Research/dp/1107676517/)
+- [Flexible Imputation of Missing Data](https://www.amazon.in/Flexible-Imputation-Missing-Interdisciplinary-Statistics/dp/1032178639/)
+- [CS229 lecture notes](https://cs229.stanford.edu/lectures-spring2022/main_notes.pdf) ⭐⭐⭐⭐⭐
 
 ### Hands-on practical books for systems
 - Fluent Python (Advanced)
