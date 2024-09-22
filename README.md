@@ -8,10 +8,12 @@ I understand that this is a lot. Think of this as long term game and you definit
 
 
 ## Books
-### Super Beginner Books
-- Python for Data Analysis
-- Python Data Science Handbook
-- Think Stats
+### Beginner Books
+- [Python for Data Analysis](https://wesmckinney.com/book/)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
+- [Think Stats](https://greenteapress.com/wp/think-stats-2e/)
+- [Machine Learning with PyTorch and Scikit-Learn](https://github.com/rasbt/machine-learning-book)
+- [Software Engineering for Data Scientists](https://github.com/catherinenelson1/SEforDS/tree/main)
 
 ### Foundational Books
 - Introduction to Probability for Data Science ⭐⭐⭐⭐⭐
@@ -39,7 +41,6 @@ I understand that this is a lot. Think of this as long term game and you definit
 - Feature Store for Machine Learning
 - Generative AI on AWS
 - Causal Inference in Python
-- Software Engineering for Data Scientists
 
 ### Engineering Neighborhood books
 - MySQL Internals ⭐⭐⭐⭐⭐
