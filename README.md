@@ -20,20 +20,20 @@ I understand that this is a lot. Think of this as long term game and you definit
 - [Software Engineering for Data Scientists](https://github.com/catherinenelson1/SEforDS/tree/main)
 
 ### Foundational Books
-- Introduction to Probability for Data Science ⭐⭐⭐⭐⭐
-- Linear Algebra ⭐⭐⭐⭐⭐
-- Algorithms for Optimization ⭐⭐⭐⭐⭐
-- Probabilistic Machine Learning : An Introduction ⭐⭐⭐⭐⭐
-- Probabilistic Machine Learning : Advanced Topics ⭐⭐⭐⭐⭐
-- Machine Learning a Probabilistic Perspective ⭐⭐⭐⭐⭐
-- Statistical Rethinking ⭐⭐⭐⭐⭐
-- Counterfactuals and Causal Inference
-- Causal Inference : What If
-- Convex Optimization
-- Trustworthy online controlled experiments ⭐⭐⭐⭐⭐
-- Regression and other stories
-- Flexible Imputation of Missing Data
-- CS229 lecture notes ⭐⭐⭐⭐⭐
+- [Introduction to Probability for Data Science](https://probability4datascience.com/) ⭐⭐⭐⭐⭐
+- [Linear Algebra](https://www.amazon.in/Linear-Algebra-Applications-Gilbert-Strang/dp/8131501728/) ⭐⭐⭐⭐⭐
+- [Algorithms for Optimization](https://www.amazon.in/Algorithms-Optimization-Press-Mykel-Kochenderfer/dp/0262039427/) ⭐⭐⭐⭐⭐
+- [Probabilistic Machine Learning : An Introduction](https://probml.github.io/pml-book/book1.html) ⭐⭐⭐⭐⭐
+- [Probabilistic Machine Learning : Advanced Topics](https://probml.github.io/pml-book/book2.html) ⭐⭐⭐⭐⭐
+- [Machine Learning a Probabilistic Perspective](https://probml.github.io/pml-book/book0.html) ⭐⭐⭐⭐⭐
+- [Statistical Rethinking](https://www.amazon.in/Statistical-Rethinking-Bayesian-Examples-Chapman/dp/036713991X/) ⭐⭐⭐⭐⭐
+- [Counterfactuals and Causal Inference](https://www.amazon.in/Counterfactuals-Causal-Inference-Principles-Analytical/dp/1107694167/)
+- [Causal Inference : What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
+- [Trustworthy online controlled experiments](https://www.amazon.in/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264/) ⭐⭐⭐⭐⭐
+- [Regression and other stories]()
+- [Flexible Imputation of Missing Data]()
+- [CS229 lecture notes]() ⭐⭐⭐⭐⭐
 
 ### Hands-on practical books for systems
 - Fluent Python (Advanced)
