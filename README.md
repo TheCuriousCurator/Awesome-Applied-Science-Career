@@ -1,6 +1,6 @@
 # 🚀🚀🚀 Awesome-Applied-Science-Career 🚀🚀🚀
 
-![Logo](TCC-logos.jpeg){width=150px}
+![Logo](TCC-logos.jpeg){ width=50% }
 
 ## by [The Curious Curator](https://thecuriouscurator.in/course/ultimate-machine-learning-course/)
 
