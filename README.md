@@ -37,14 +37,15 @@ I understand that this is a lot. Think of this as long term game and you definit
 
 ### Hands-on practical books for systems
 - Fluent Python (Advanced)
-- Data Engineering with AWS ⭐⭐⭐⭐⭐
-- Data Engineering with Python ⭐⭐⭐⭐⭐
-- Machine Learning Engineering with Python ⭐⭐⭐⭐⭐
-- Data Science on AWS ⭐⭐⭐⭐⭐
-- Machine Learning Engineering wth MLflow
-- Feature Store for Machine Learning
-- Generative AI on AWS
-- Causal Inference in Python
+- [Data Engineering with AWS](https://www.amazon.in/Data-Engineering-AWS-Gareth-Eagar/dp/1804614424) ⭐⭐⭐⭐⭐
+- [Data Engineering with Python](https://www.amazon.in/Data-Engineering-Python-datasets-pipelines/dp/183921418X) ⭐⭐⭐⭐⭐
+- [Machine Learning Engineering with Python](https://www.amazon.in/Machine-Learning-Engineering-Python-lifecycle-ebook/dp/B0BXXQJC2D/) ⭐⭐⭐⭐⭐
+- [Data Science on AWS](https://www.amazon.in/Data-Science-AWS-End-End/dp/8194722993/) ⭐⭐⭐⭐⭐
+- [Machine Learning Engineering wth MLflow]()
+- [Feature Store for Machine Learning]()
+- [Generative AI on AWS](https://www.amazon.in/Generative-AWS-Context-Aware-Multimodal-Applications/dp/935542793X/)
+- [Causal Inference in Python](https://www.amazon.in/Causal-Inference-Python-Applying-Grayscale/dp/9355424345/)
+- [How Charts Lie: Getting Smarter about Visual Information](https://www.youtube.com/watch?v=Low28hx4wyk) 
 
 ### Engineering Neighborhood books
 - MySQL Internals ⭐⭐⭐⭐⭐
@@ -60,6 +61,7 @@ I understand that this is a lot. Think of this as long term game and you definit
 - The Machine Learning Solutions Architect Handbook
 - Domain-Driven Design with Golang
 - Web Scalability for Startup Engineers ⭐⭐⭐⭐⭐
+- [Solutions Achitech's Handbook](https://www.amazon.in/Solutions-Architects-Handbook-Kick-start-architecture/dp/1835084230/)
 
 ## Tools / Libraries
 ### ML related libraries
