@@ -63,6 +63,9 @@ I understand that this is a lot. Think of this as long term game and you definit
 - Web Scalability for Startup Engineers ⭐⭐⭐⭐⭐
 - [Solutions Achitech's Handbook](https://www.amazon.in/Solutions-Architects-Handbook-Kick-start-architecture/dp/1835084230/)
 
+### Blogs
+- [Common statistical tests are linear models: Python port](https://www.georgeho.org/tests-as-linear/)
+
 ## Tools / Libraries
 ### ML related libraries
 - Numpy
