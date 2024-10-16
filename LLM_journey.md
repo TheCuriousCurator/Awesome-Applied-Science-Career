@@ -11,9 +11,12 @@
 - [Deep Learning Deep Dive Episode #2: DALL-E and friends in image generation](https://www.youtube.com/watch?v=gMc90bqHMSM)
 - [Let's reproduce GPT-2 (124M) - Andrej Karpathy](https://www.youtube.com/watch?v=l8pRSuU81PU)
 - [BERT explained: Training, Inference, BERT vs GPT/LLamA, Fine tuning, \[CLS\] token](https://www.youtube.com/watch?v=90mGPxR2GgY)
+- [Reinforcement Learning from Human Feedback explained with math derivations and the PyTorch code.](https://www.youtube.com/watch?v=qGyFrqc34yc)
+- [Direct Preference Optimization (DPO) explained: Bradley-Terry model, log probabilities, math](https://www.youtube.com/watch?v=hvGa5Mba4c8)
 - [LLaMA explained: KV-Cache, Rotary Positional Embedding, RMS Norm, Grouped Query Attention, SwiGLU](https://www.youtube.com/watch?v=Mn_9W1nCFLo)
 - [Coding LLaMA 2 from scratch in PyTorch - KV Cache, Grouped Query Attention, Rotary PE, RMSNorm](https://www.youtube.com/watch?v=oM4VmoabDAI)
 - [Stanford CS25: V3 I Retrieval Augmented Language Models](https://www.youtube.com/watch?v=mE7IDf2SmJg)
+- [Retrieval Augmented Generation (RAG) Explained: Embedding, Sentence BERT, Vector Database (HNSW)](https://www.youtube.com/watch?v=rhZgXNdhWDY)
 - [Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 - [Stanford CS521 - AI Safety Seminar](https://www.youtube.com/playlist?list=PLoROMvodv4rNtnS3JSRRZzLWQo2dd6XNs)
 - [Understanding Large Language Models: Foundations & Safety - UC Berkley](https://www.youtube.com/playlist?list=PLS01nW3RtgopGBSzwzIQL6SAZFGFh5B4b)
@@ -26,6 +29,9 @@
 - [EfficientML.ai Course | 2023 Fall | MIT 6.5940](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
 - https://pytorch.org/docs/stable/quantization.html
 - [tinyML Talks: A Practical Guide to Neural Network Quantization - Qualcomm AI Research](https://www.youtube.com/watch?v=KASuxB3XoYQ)
+- [Coding a Multimodal (Vision) Language Model from scratch in PyTorch with full explanation](https://www.youtube.com/watch?v=vAmKB7iPkWw)
+- [Distributed Training with PyTorch: complete tutorial with cloud infrastructure and code](https://www.youtube.com/watch?v=toUSzwR0EV8)
+- [Attention is all you need (Transformer) - Model explanation (including math), Inference and Training](https://www.youtube.com/watch?v=bCz4OMemCcA)
 
 
 ### Libraries
