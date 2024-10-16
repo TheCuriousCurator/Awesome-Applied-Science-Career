@@ -38,6 +38,12 @@
 [OpenHands: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741)
 
 #### Agent for Workflow Applications
+[WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?](https://arxiv.org/abs/2403.07718)
+
+[WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks](https://arxiv.org/abs/2407.05291)
+
+[TapeAgents: a Holistic Framework for Agent Development and Optimization](https://llmagents-learning.org/assets/tapeagents.pdf)
+
 #### Stronger Together: Marrying Neural Networks with Traditional Symbolic Decision-Making
 #### Foundation Agent
 #### Cybersecurity, agents, and open-source
