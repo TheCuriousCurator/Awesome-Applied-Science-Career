@@ -10,6 +10,8 @@
 - [Let's reproduce GPT-2 (124M) - Andrej Karpathy](https://www.youtube.com/watch?v=l8pRSuU81PU)
 - [BERT explained: Training, Inference, BERT vs GPT/LLamA, Fine tuning, \[CLS\] token](https://www.youtube.com/watch?v=90mGPxR2GgY)
 - [LLaMA explained: KV-Cache, Rotary Positional Embedding, RMS Norm, Grouped Query Attention, SwiGLU](https://www.youtube.com/watch?v=Mn_9W1nCFLo)
+- [Coding LLaMA 2 from scratch in PyTorch - KV Cache, Grouped Query Attention, Rotary PE, RMSNorm](https://www.youtube.com/watch?v=oM4VmoabDAI)
+- [Stanford CS25: V3 I Retrieval Augmented Language Models](https://www.youtube.com/watch?v=mE7IDf2SmJg)
 - [Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 - [Stanford CS521 - AI Safety Seminar](https://www.youtube.com/playlist?list=PLoROMvodv4rNtnS3JSRRZzLWQo2dd6XNs)
 - [Understanding Large Language Models: Foundations & Safety - UC Berkley](https://www.youtube.com/playlist?list=PLS01nW3RtgopGBSzwzIQL6SAZFGFh5B4b)
@@ -23,3 +25,4 @@
 - [LangChain by Greg Kamradt](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
 - [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search - FreeCodeCamp](https://www.youtube.com/watch?v=JEBDfGqrAUA&list=PLinWbOnVokGo4UJ3nhv_VEvvqJnujCD13&index=28)
 - [Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma - FreeCodeCamp](https://www.youtube.com/watch?v=xZDB1naRUlk&list=PLinWbOnVokGo4UJ3nhv_VEvvqJnujCD13)
+- [Local Retrieval Augmented Generation (RAG) from Scratch (step by step tutorial)](https://www.youtube.com/watch?v=qN_2fnOPY-M)
