@@ -15,6 +15,7 @@
 - [Understanding Large Language Models: Foundations & Safety - UC Berkley](https://www.youtube.com/playlist?list=PLS01nW3RtgopGBSzwzIQL6SAZFGFh5B4b)
 - [Neural Networks: Zero to Hero - Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [CMU Advanced NLP Fall 2024](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp)
+- [LLM Agents](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc)
 
 ### Libraries
 - [RAG From Scratch by LangChain](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
