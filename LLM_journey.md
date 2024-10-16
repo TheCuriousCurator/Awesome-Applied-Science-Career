@@ -1,10 +1,10 @@
 ### Foundations
 - [CS480/680 Lecture 19: Attention and Transformer Networks - Pascal Poupart](https://www.youtube.com/watch?v=OyFJWRnt_AY)
-- [Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
+- [Stanford CS229 | Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
+- [Building LLMs from the Ground Up: A 3-hour Coding Workshop - Sebastian Raschka](https://www.youtube.com/watch?v=quh7z1q7-uc)
+- [Developing an LLM: Building, Training, Finetuning - Sebastian Raschka](https://www.youtube.com/watch?v=kPGTx4wcm_w)
 - [Coding a Transformer from scratch on PyTorch, with full explanation, training and inference.](https://www.youtube.com/watch?v=ISNdQcPhsts)
 - [Let's build GPT: from scratch, in code, spelled out. - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
-- [Building LLMs from the Ground Up: A 3-hour Coding Workshop - Sebastian Raschka](https://www.youtube.com/watch?v=quh7z1q7-uc)
-- [Developing an LLM: Building, Training, Finetuning - Sebastian Raschka](https://www.youtube.com/watch?v=kPGTx4wcm_w&list=PLinWbOnVokGo4UJ3nhv_VEvvqJnujCD13&index=55&t=660s)
 - [Let's build the GPT Tokenizer - Andrej Karpathy](https://www.youtube.com/watch?v=zduSFxRajkE)
 - [Deep Learning Deep Dive Episode #2: DALL-E and friends in image generation](https://www.youtube.com/watch?v=gMc90bqHMSM)
 - [Let's reproduce GPT-2 (124M) - Andrej Karpathy](https://www.youtube.com/watch?v=l8pRSuU81PU)
