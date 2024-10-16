@@ -29,7 +29,6 @@
 - [EfficientML.ai Course | 2023 Fall | MIT 6.5940](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
 - https://pytorch.org/docs/stable/quantization.html
 - [tinyML Talks: A Practical Guide to Neural Network Quantization - Qualcomm AI Research](https://www.youtube.com/watch?v=KASuxB3XoYQ)
-- [Coding a Multimodal (Vision) Language Model from scratch in PyTorch with full explanation](https://www.youtube.com/watch?v=vAmKB7iPkWw)
 - [Distributed Training with PyTorch: complete tutorial with cloud infrastructure and code](https://www.youtube.com/watch?v=toUSzwR0EV8)
 - [Attention is all you need (Transformer) - Model explanation (including math), Inference and Training](https://www.youtube.com/watch?v=bCz4OMemCcA)
 
