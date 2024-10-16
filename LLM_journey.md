@@ -21,3 +21,4 @@
 - [LangChain Tutorial for Beginners](https://www.youtube.com/playlist?list=PLBSCvBlTOLa_WxDWdDoHSP3u2CdGImtwM)
 - [LangChain by Greg Kamradt](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
 - [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search - FreeCodeCamp](https://www.youtube.com/watch?v=JEBDfGqrAUA&list=PLinWbOnVokGo4UJ3nhv_VEvvqJnujCD13&index=28)
+- [Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma - FreeCodeCamp](https://www.youtube.com/watch?v=xZDB1naRUlk&list=PLinWbOnVokGo4UJ3nhv_VEvvqJnujCD13)
