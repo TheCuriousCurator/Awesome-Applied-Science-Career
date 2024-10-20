@@ -32,4 +32,9 @@
 - [Have several agents collaborate in a multi-agent hierarchy 🤖🤝🤖](https://huggingface.co/learn/cookbook/en/multiagent_web_assistant)
 
 ### AWS
-- 
+- [Create a multimodal assistant with advanced RAG and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/create-a-multimodal-assistant-with-advanced-rag-and-amazon-bedrock/)
+- [Create a multimodal chatbot tailored to your unique dataset with Amazon Bedrock FMs](https://aws.amazon.com/blogs/machine-learning/create-a-multimodal-chatbot-tailored-to-your-unique-dataset-with-amazon-bedrock-fms/)
+- [Generative AI and multi-modal agents in AWS: The key to unlocking new value in financial markets](https://aws.amazon.com/blogs/machine-learning/generative-ai-and-multi-modal-agents-in-aws-the-key-to-unlocking-new-value-in-financial-markets/)
+
+### Google AI
+- [Gemini Usecases](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/use-cases)
