@@ -7,6 +7,10 @@
 - [Coding Stable Diffusion from scratch in PyTorch](https://www.youtube.com/watch?v=ZBKpAp_6TGI)
 - [Coding a Multimodal (Vision) Language Model from scratch in PyTorch with full explanation](https://www.youtube.com/watch?v=vAmKB7iPkWw)
 
+### Blogs
+- [Agents - Lilian Weng](https://lilianweng.github.io/posts/2023-06-23-agent/)
+- [Prompt Engineering - Lilian Weng](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+- [Controllable Text Generation](https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/)
 
 ## Hands-On
 ### Hugging Face Tutorials
