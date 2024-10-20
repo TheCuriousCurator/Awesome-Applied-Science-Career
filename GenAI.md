@@ -8,6 +8,7 @@
 - [Coding a Multimodal (Vision) Language Model from scratch in PyTorch with full explanation](https://www.youtube.com/watch?v=vAmKB7iPkWw)
 
 
+## Hands-On
 ### Hugging Face Tutorials
 - [Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs)](https://huggingface.co/learn/cookbook/en/multimodal_rag_using_document_retrieval_and_vlms)
 - [Advanced RAG on Hugging Face documentation using LangChain](https://huggingface.co/learn/cookbook/en/advanced_rag)
@@ -38,3 +39,9 @@
 
 ### Google AI
 - [Gemini Usecases](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/use-cases)
+
+### Github repos
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook/tree/main/examples)
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques/tree/main)
+- [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents/tree/main)
