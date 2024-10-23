@@ -34,6 +34,7 @@
 
 ### Libraries
 - [RAG From Scratch by LangChain](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
+- [LangGraph (Python)](https://www.youtube.com/playlist?list=PLfaIDFEXuae16n2TWUkKq5PgJ0w6Pkwtg)
 - [LangChain Tutorial for Beginners](https://www.youtube.com/playlist?list=PLBSCvBlTOLa_WxDWdDoHSP3u2CdGImtwM)
 - [LangChain by Greg Kamradt](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
 - [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search - FreeCodeCamp](https://www.youtube.com/watch?v=JEBDfGqrAUA&list=PLinWbOnVokGo4UJ3nhv_VEvvqJnujCD13&index=28)
