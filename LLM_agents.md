@@ -37,16 +37,31 @@
 
 [OpenHands: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741)
 
-#### Agent for Workflow Applications (Nicolas Chapados, ServiceNow)
+#### AI Agents for Enterprise Workflows (Nicolas Chapados, ServiceNow)
 [WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?](https://arxiv.org/abs/2403.07718)
 
 [WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks](https://arxiv.org/abs/2407.05291)
 
 [TapeAgents: a Holistic Framework for Agent Development and Optimization](https://llmagents-learning.org/assets/tapeagents.pdf)
 
-#### Stronger Together: Marrying Neural Networks with Traditional Symbolic Decision-Making (Yuandong Tian, Meta AI (FAIR))
+#### Towards a unified framework of Neural and Symbolic Decision Making (Yuandong Tian, Meta AI (FAIR))
+[Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping](https://arxiv.org/abs/2402.14083)
 
-#### Foundation Agent ( Jim Fan, NVIDIA	)
+[Dualformer: Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces](https://arxiv.org/abs/2410.09918v1)
+
+[Composing Global Optimizers to Reasoning Tasks via Algebraic Objects in Neural Nets](https://arxiv.org/abs/2410.01779)
+
+[SurCo: Learning Linear Surrogates For Combinatorial Nonlinear Optimization Problems](https://arxiv.org/abs/2210.12547)
+
+#### Project GR00T: A Blueprint for Generalist Robotics (Foundation Agent) ( Jim Fan, NVIDIA	)
+[Voyager: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/) [paper](https://arxiv.org/abs/2305.16291)
+
+[Eureka: Human-Level Reward Design via Coding Large Language Models](https://arxiv.org/abs/2310.12931) [website](https://eureka-research.github.io/)
+
+[DrEureka: Language Model Guided Sim-To-Real Transfer](https://arxiv.org/abs/2406.01967) [website](https://eureka-research.github.io/dr-eureka/)
+
 #### Cybersecurity, agents, and open-source ( Percy Liang, Stanford University )
+
 #### Measuring Agent capabilities and Anthropic’s RSP ( Ben Mann, Anthropic	)
+
 #### LLM Agent Safety ( Dawn Song, UC Berkeley )
