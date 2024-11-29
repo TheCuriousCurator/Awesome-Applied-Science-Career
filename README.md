@@ -22,14 +22,14 @@ I understand that this is a lot. Think of this as long term game and you definit
 ### Foundational Books
 - [Introduction to Probability for Data Science](https://probability4datascience.com/) ⭐⭐⭐⭐⭐
 - [Linear Algebra](https://www.amazon.in/Linear-Algebra-Applications-Gilbert-Strang/dp/8131501728/) ⭐⭐⭐⭐⭐
-- [Algorithms for Optimization](https://www.amazon.in/Algorithms-Optimization-Press-Mykel-Kochenderfer/dp/0262039427/) ⭐⭐⭐⭐⭐
+- [Algorithms for Optimization](https://www.amazon.in/Algorithms-Optimization-Press-Mykel-Kochenderfer/dp/0262039427/) ⭐⭐⭐⭐
 - [Probabilistic Machine Learning : An Introduction](https://probml.github.io/pml-book/book1.html) ⭐⭐⭐⭐⭐
 - [Probabilistic Machine Learning : Advanced Topics](https://probml.github.io/pml-book/book2.html) ⭐⭐⭐⭐⭐
 - [Machine Learning a Probabilistic Perspective](https://probml.github.io/pml-book/book0.html) ⭐⭐⭐⭐⭐
 - [Statistical Rethinking](https://www.amazon.in/Statistical-Rethinking-Bayesian-Examples-Chapman/dp/036713991X/) ⭐⭐⭐⭐⭐
 - [Counterfactuals and Causal Inference](https://www.amazon.in/Counterfactuals-Causal-Inference-Principles-Analytical/dp/1107694167/)
 - [Causal Inference : What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
-- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
+- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)⭐⭐⭐⭐
 - [Trustworthy online controlled experiments](https://www.amazon.in/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264/) ⭐⭐⭐⭐⭐
 - [Regression and other stories](https://www.amazon.in/Regression-Stories-Analytical-Methods-Research/dp/1107676517/)
 - [Flexible Imputation of Missing Data](https://www.amazon.in/Flexible-Imputation-Missing-Interdisciplinary-Statistics/dp/1032178639/)
