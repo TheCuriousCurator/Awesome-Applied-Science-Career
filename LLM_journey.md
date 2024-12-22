@@ -7,6 +7,7 @@
 - [Reinforcement Learning from Human Feedback explained with math derivations and the PyTorch code.](https://www.youtube.com/watch?v=qGyFrqc34yc) ✓
 - [Direct Preference Optimization (DPO) explained: Bradley-Terry model, log probabilities, math](https://www.youtube.com/watch?v=hvGa5Mba4c8) ✓
 - [LoRA: Low-Rank Adaptation of Large Language Models - Explained visually + PyTorch code from scratch](https://www.youtube.com/watch?v=PXWYUTMt-AU) ✓
+- [CS 886: Recent Advances on Foundation Models - UoWaterloo](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
 - [Stanford CS229 | Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 - [Building LLMs from the Ground Up: A 3-hour Coding Workshop - Sebastian Raschka](https://www.youtube.com/watch?v=quh7z1q7-uc)
 - [Coding a Transformer from scratch on PyTorch, with full explanation, training and inference.](https://www.youtube.com/watch?v=ISNdQcPhsts) 
