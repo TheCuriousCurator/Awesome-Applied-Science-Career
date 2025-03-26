@@ -48,6 +48,7 @@ I understand that this is a lot. Think of this as long term game and you definit
 - [How Charts Lie: Getting Smarter about Visual Information](https://www.youtube.com/watch?v=Low28hx4wyk) 
 
 ### Engineering Neighborhood books
+- [Post-College Tools for Data Scientists](https://www.udemy.com/share/108agK3@MT5Umc-_ItxKE6vAuGHyQdWsRU2GTl4abYPdDjpCyJIQnYKXiORJ1Oy2r_c8bw==/)
 - MySQL Internals ⭐⭐⭐⭐⭐
 - Database Internals
 - Systems Performance
