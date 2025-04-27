@@ -31,4 +31,5 @@
 - [SearchSage: Learning Search Query Representations at Pinterest](https://medium.com/pinterest-engineering/searchsage-learning-search-query-representations-at-pinterest-654f2bb887fc)
 - [System Design for Discovery (RecSys and Search)](https://applyingml.com/resources/discovery-system-design/)
 - [Recommending What Video to Watch Next: A Multitask Ranking System](https://daiwk.github.io/assets/youtube-multitask.pdf)
-- 
+- [Related Pins at Pinterest: The Evolution of a Real-World Recommender System](https://arxiv.org/pdf/1702.07969)
+- [Online Dual Decomposition for Performance and Delivery-Based Distributed Ad Allocation](https://www.kdd.org/kdd2016/papers/files/adf0682-huangA.pdf)
